@@ -1,0 +1,11 @@
+id_name_specialist_timing_qualification_roomNb
+50_Gustav_Eurologist_9:00-17:00_PHP_40
+12_Dr.Vikram Bashar_Cadiologist_08:00-17:30_PHD_51
+13_Dr.Locust_Neurology_09:00 - 17:00_MD_25
+10_Dr.Gugu_Estricology_07:00 - 18:00_MD_10
+5_Dr.Zenny_Gyaenochologist_08:00-16:00_PHD_28
+17_Dr.Amy_Eye surgeon_08am-07pm_MD_8
+21_Dr.TestName_TestSpeciality_07:30-17:00_MD_14
+20_Dr.Moose Head_Bla-Bla_09am-3pm_11_11
+51_Dr. Keneth_Eye-surgeon_6am-6pm_PHD_54
+9_Dr.Boozerley_Physiotherapy_6pm-4pm_MD_5

@@ -1,0 +1,7 @@
+Hospital  Facility are:
+Ambulance
+Admit Facility 
+Canteen
+Emergency
+St. Mary
+Gusto department
